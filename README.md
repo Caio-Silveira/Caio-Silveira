@@ -6,8 +6,7 @@
   <div align="center">  
   <div style="display: inline_block">  
   <h1 align="center">"The good thing about living in São Paulo is that you are 1h 30m from SP!"<3</h1>
-  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
   </div>
   </div>
 </br>
-<br>
+ ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
