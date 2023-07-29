@@ -1,14 +1,10 @@
 ## Faaaala dev, Luigi Aqui!
-
-<div>
-  
-  <img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Silveira&theme=midnight-purple&show_icons=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Silveira&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
+  <img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Silveira&theme=midnight-purple&show_icons=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Silveira&layout=compact&langs_count=16&theme=midnight-purple"/>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
