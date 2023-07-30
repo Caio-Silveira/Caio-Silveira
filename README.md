@@ -6,7 +6,7 @@
   <div >
   <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Silveira&layout=compact&langs_count=16&theme=midnight-purple"/>
   <img  align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Silveira&theme=midnight-purple&show_icons=true"/>
-  <img align="center" height="180em" src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg"/>
+  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
   </div>
   </div>
 </br>
