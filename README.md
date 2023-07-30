@@ -4,7 +4,7 @@
 <br>  
   <div align="center">  
   <div >
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Silveira&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Silveira&layout=compact&langs_count=16&theme=midnight-purple"/>
   <img  align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Silveira&theme=midnight-purple&show_icons=true"/>
   <img  align="center" height="180em" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
   </div>
