@@ -9,4 +9,4 @@
   </div>
   </div>
 </br>
-[![Instagram](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+[![Instagrams](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
