@@ -3,7 +3,7 @@
 ## "The good thing about living in São Paulo is that you are 1h 30m from SP!"<3
 
 [![Youtube](https://img.shields.io/badge/YouTube-5000ff?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQzZTdgZUnTAbAib09uAT2A)
-[![Instagram](https://img.shields.io/badge/Instagram-5000ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_u_caio)
+[![Instagram](https://img.shields.io/badge/Instagram-5000ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/u_caio.ftv)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caio+Silveira;I'm+16+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
